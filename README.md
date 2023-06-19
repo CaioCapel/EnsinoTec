@@ -10,6 +10,4 @@ Trabalho realizado para projeto final de semestre, no ano de 2022 na instituiç�
 <h2><a href="https://caiocapel.github.io/EnsinoTec/perfil-aluno.html">Perfil Aluno</a></h2>
 <h2><a href="https://caiocapel.github.io/EnsinoTec/Atividades.html">Atividades</a></h2>
 <h2><a href="https://caiocapel.github.io/EnsinoTec/mural.html">Mural</a></h2>
-<br><br>
-
 <h2><a href="https://caiocapel.github.io/EnsinoTec/calendar.html">Calendário</a></h2>
